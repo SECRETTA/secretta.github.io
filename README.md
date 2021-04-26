@@ -1,1 +1,1 @@
-# [https://secretta.github.io](secretta.github.io)
+# [secretta.github.io](https://secretta.github.io)
