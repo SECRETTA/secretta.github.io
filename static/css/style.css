@@ -2,9 +2,12 @@
 
 body {
 	background-color: #9b1e1e;
+	text-align: center;
 }
 
 h1 {
 	color: #ffffff;
 	font-family: 'Bungee Shade', cursive;
+	font-size: 5em;
+	margin-top: 3em;
 }
